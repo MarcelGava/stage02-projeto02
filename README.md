@@ -6,7 +6,7 @@
 O projeto treine.me foi desenvolvido durante o stage 02 no Explorer da Rocketseat. <br/>
 
 <p align="center">
-  <img alt="projeto Moveis customizados" src="./images/preview.jpg" width="100%">
+  <img alt="projeto treine.me" src="./images/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
